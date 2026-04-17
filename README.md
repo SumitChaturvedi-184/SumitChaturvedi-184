@@ -11,8 +11,3 @@ I’m currently working full-time as a System Administrator at Support Hives Tec
 ![](https://github-readme-stats.shion.dev/api?username=SumitChaturvedi-184&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SumitChaturvedi-184&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SumitChaturvedi-184&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
